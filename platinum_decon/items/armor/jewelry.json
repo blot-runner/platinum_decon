@@ -1,0 +1,15 @@
+[
+  {
+    "id": "platinum_ear",
+    "type": "ARMOR",
+    "name": "platinum earring",
+    "description": "Plain platinum earrings, the rich person's earring - if gold is getting boring, just use another rare metal.  You can wear it if you like, but it won't provide any effects.",
+    "weight": "15 g",
+    "volume": 0,
+    "price": 12000,
+    "material": [ "platinum" ],
+    "symbol": "[",
+    "color": "white",
+    "flags": [ "FANCY" ]
+  }
+]

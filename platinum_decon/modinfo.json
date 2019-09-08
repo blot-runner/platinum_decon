@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "platinum_decon",
+    "name": "Platinum Deconstruction",
+    "authors": [ "blot-runner" ],
+    "maintainers": [ "blot-runner" ],
+    "description": "Adds recipes for deconstructing platinum jewelry.",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]
